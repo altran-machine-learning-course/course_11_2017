@@ -2,11 +2,21 @@
 
 This is the main repository of the Machine learning course teach at November/December of 2017. You can find different folder containing the dataset and content needed for the course.
 
-## Content 
+## Table of content
+
+* [Slides](#slides)
+* [Getting Started](#getting-started)
+  * [Pre Setup](#pre-setup)
+  * [Python Installation](#python-installation)
+  * [Environment Setup](#environment-setup)
+* [Questions](#Questions)
+* [Changelog](#changelog)
+
+## Slides
 
 | Class | Slides |
 | ------ | ------ |
-| Week 1 - The What Why and when of Machine Learning | [Slides](http://#) |
+| Week 1 - The What Why and when of Machine Learning | [Slides (not yet!)](http://#) |
 
 ## Getting Started
 
@@ -65,11 +75,10 @@ This is the main repository of the Machine learning course teach at November/Dec
 
 * **Cheers! You're ready to go! Open up spyder or notebook**
 
+## Questions
 
-
-
-
-ToDO
+If you want to ask something, feel free to write your question in the issues section.
+ 
 
 ## Changelog
 07/11/2017 First version
