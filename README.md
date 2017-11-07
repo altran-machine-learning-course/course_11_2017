@@ -9,7 +9,7 @@ This is the main repository of the Machine learning course teach at November/Dec
   * [Pre Setup](#pre-setup)
   * [Python Installation](#python-installation)
   * [Environment Setup](#environment-setup)
-* [Questions](#Questions)
+* [Questions](#questions)
 * [Changelog](#changelog)
 
 ## Slides
@@ -79,6 +79,5 @@ This is the main repository of the Machine learning course teach at November/Dec
 
 If you want to ask something, feel free to write your question in the issues section.
  
-
 ## Changelog
 07/11/2017 First version
