@@ -16,7 +16,7 @@ This is the main repository of the Machine learning course teach at November/Dec
 
 | Class | Slides |
 | ------ | ------ |
-| Week 1 - The What Why and when of Machine Learning | [Slides (not yet!)](http://#) |
+| Week 1 - The What Why and when of Machine Learning | [Slides (not yet!)](https://docs.google.com/presentation/d/13au8KeMavSuW1GjYMbFT2rWlb6EVjEgINNsbdidjoFE/edit?usp=sharing) |
 
 ## Getting Started
 
