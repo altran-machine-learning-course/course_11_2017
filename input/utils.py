@@ -24,6 +24,11 @@ def accuracy_score(dataset_input):
 	return np.sum(sol["survived"] == dataset_input["survived"]) / float(sol.shape[0]) 
 
 
+def accuracy_score_numpy(y_test):
+	sol = pd.read_csv("../input/sol.csv", index_col='id')["survived"].values
+	return np.sum(sol==y_test)/float(len(sol))
+
+
 if __name__ == "__main__":
 	test = pd.read_csv("../input/sol.csv")
-	print accuracy_score(test)
+	print(accuracy_score(test))
