@@ -19,6 +19,7 @@ This is the main repository of the Machine learning course teach at November/Dec
 | Week 1 - The What Why and when of Machine Learning | [Slides](https://docs.google.com/presentation/d/13au8KeMavSuW1GjYMbFT2rWlb6EVjEgINNsbdidjoFE/edit?usp=sharing) |
 | Week 2 - Feature Engineering | [Slides](https://docs.google.com/presentation/d/1W9ZADTIKhLyJXycjbqPPzLq8nySfGcOgDH7wNwfnGfY/edit?usp=sharing)
 | Week 3 - Linear Classifiers | [Slides](https://docs.google.com/presentation/d/1el2enYn7nMsDVX5JMpHZW4EzsknJ0ML7onqJLyvPIGc/edit?usp=sharing)
+| Week 4 - Classifier Optimization | [Slides](https://drive.google.com/open?id=1c3idr6asSKBdmE_Y0jToBkSg7BuNDkG4b65cmLHEBt8)
 
 ## Interesting links
 PCA: [http://setosa.io/ev/principal-component-analysis/](http://setosa.io/ev/principal-component-analysis/)
