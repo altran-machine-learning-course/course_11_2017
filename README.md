@@ -9,6 +9,7 @@ This is the main repository of the Machine learning course teach at November/Dec
   * [Pre Setup](#pre-setup)
   * [Python Installation](#python-installation)
   * [Environment Setup](#environment-setup)
+* [Interesting links](#interesting-links)
 * [Questions](#questions)
 * [Previous courses](#courses)
 
