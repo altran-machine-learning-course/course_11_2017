@@ -10,20 +10,17 @@ This is the main repository of the Machine learning course teach at November/Dec
   * [Python Installation](#python-installation)
   * [Environment Setup](#environment-setup)
 * [Questions](#questions)
-* [Changelog](#changelog)
+* [Previous courses](#courses)
 
 ## Slides
 
 | Class | Slides |
 | ------ | ------ |
-| Week 1 - The What Why and when of Machine Learning | [Slides](https://docs.google.com/presentation/d/13au8KeMavSuW1GjYMbFT2rWlb6EVjEgINNsbdidjoFE/edit?usp=sharing) |
-| Week 2 - Feature Engineering | [Slides](https://docs.google.com/presentation/d/1W9ZADTIKhLyJXycjbqPPzLq8nySfGcOgDH7wNwfnGfY/edit?usp=sharing)
-| Week 3 - Linear Classifiers | [Slides](https://docs.google.com/presentation/d/1el2enYn7nMsDVX5JMpHZW4EzsknJ0ML7onqJLyvPIGc/edit?usp=sharing)
-| Week 4 - Classifier Optimization | [Slides](https://drive.google.com/open?id=1c3idr6asSKBdmE_Y0jToBkSg7BuNDkG4b65cmLHEBt8)
-| Week 4 - Neural Network Overview | [Slides](https://drive.google.com/open?id=1leQ8uL-Cq7zWFABZOlLkFJUJYn0pccbCuCUwnOPsuoo)
-
-## Interesting links
-PCA: [http://setosa.io/ev/principal-component-analysis/](http://setosa.io/ev/principal-component-analysis/)
+| Session 1 - The What Why and when of Machine Learning | [Slides](https://docs.google.com/presentation/d/13au8KeMavSuW1GjYMbFT2rWlb6EVjEgINNsbdidjoFE/edit?usp=sharing) |
+| Session 2 - Feature Engineering | [Slides](https://docs.google.com/presentation/d/1W9ZADTIKhLyJXycjbqPPzLq8nySfGcOgDH7wNwfnGfY/edit?usp=sharing)
+| Session 3 - Linear Classifiers | [Slides](https://docs.google.com/presentation/d/1el2enYn7nMsDVX5JMpHZW4EzsknJ0ML7onqJLyvPIGc/edit?usp=sharing)
+| Session 4 - Classifier Optimization | [Slides](https://drive.google.com/open?id=1c3idr6asSKBdmE_Y0jToBkSg7BuNDkG4b65cmLHEBt8)
+| Session 5 - Neural Network Overview | [Slides](https://drive.google.com/open?id=1leQ8uL-Cq7zWFABZOlLkFJUJYn0pccbCuCUwnOPsuoo)
 
 
 ## Getting Started
@@ -83,9 +80,37 @@ PCA: [http://setosa.io/ev/principal-component-analysis/](http://setosa.io/ev/pri
 
 * **Cheers! You're ready to go! Open up spyder or notebook**
 
+## Interesting links
+### Session 1
+* [Common myths in ML](http://www.iamwire.com/2017/07/3-common-myths-around-machine-learning/156129) - Good article.
+* [Matplotlib cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf) - Cheatsheet for using Python's matplotlib library.
+* [Pandas cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf) - Cheatsheet for using Python's pandas library.
+* [Pandas cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
+* [Seaborn cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf) - Cheatsheet for using Python's seaborn library.
+* [Two Minute Papers](https://www.youtube.com/user/keeroyz/videos) - Youtube channel with interesting ML videos.
+* [Violin Plots](https://blog.modeanalytics.com/violin-plot-examples/) - Description and examples of use.
+### Session 2
+* [Dataset](https://machinelearningmastery.com/difference-test-validation-datasets/) - Differences between training, test and validation dataset.
+* [Feature engineering](https://elitedatascience.com/feature-engineering-best-practices) Tips on feature engineering
+* [Feature selection](https://www.analyticsvidhya.com/blog/2016/12/introduction-to-feature-selection-methods-with-an-example-or-how-to-select-the-right-variables/) - Introduction to feature selection methods.
+* [Pearson's correlation](https://blog.bigml.com/2015/09/21/looking-for-connections-in-your-data-correlation-coefficients/) - Simple explanation of the pearson's correlation method.
+* [PCA](http://setosa.io/ev/principal-component-analysis/) - PCA Algoritm info
+* [PCA2](https://georgemdallas.wordpress.com/2013/10/30/principal-component-analysis-4-dummies-eigenvectors-eigenvalues-and-dimension-reduction/) - More PCA algorithm info.
+### Session 3
+* [Random Forest](https://www.youtube.com/watch?v=D_2LkhMJcfY) - Good video for understand the algorithm.
+* [Random Forest 2](https://www.analyticsvidhya.com/blog/2014/06/introduction-random-forest-simplified/ ) - Random forest algorithm  introduction with explanations of the main concepts.
+* [SVM](https://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html) - SVM algorithm simple explanation.
+* [SVM 2](https://www.svm-tutorial.com/2014/11/svm-understanding-math-part-1/) - SVM algorithm advanced explanation.
+* [SVM 3](http://cs.stanford.edu/people/karpathy/svmjs/demo/) - Demo.
+* [Visual Machine Learnign](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) - A visual introduction to machine learning.
+### Session 4
+* [Ensamble methods](https://www.toptal.com/machine-learning/ensemble-methods-machine-learning) - Description of the ensambled methods.
+* [Sklearn](https://machinelearningmastery.com/how-to-tune-algorithm-parameters-with-scikit-learn/) - Examples of use of this tool.
+
 ## Questions
 
 If you want to ask something, feel free to write your question in the issues section.
  
-## Changelog
-07/11/2017 First version
+## Courses
+* November '17 (12 assistants)
+* January '18
