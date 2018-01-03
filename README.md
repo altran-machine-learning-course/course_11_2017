@@ -81,6 +81,31 @@ This is the main repository of the Machine learning course teach at November/Dec
 
 * **Cheers! You're ready to go! Open up spyder or notebook**
 
+```
+Cython==0.26.1
+ipykernel==4.6.1
+ipython==6.1.0
+ipython-genutils==0.2.0
+ipywidgets==7.0.0
+jupyter-client==5.1.0
+jupyter-console==5.2.0
+jupyter-core==4.3.0
+jupyterlab==0.27.0
+jupyterlab-launcher==0.4.0
+matplotlib==2.0.2
+notebook==5.0.0
+numpy==1.13.1
+numpydoc==0.7.0
+pandas==0.20.3
+pandocfilters==1.4.2
+scikit-image==0.13.0
+scikit-learn==0.19.0
+scipy==0.19.1
+seaborn==0.8
+tensorflow==1.4.0
+tensorflow-tensorboard==0.4.0rc3
+```
+
 ## Interesting links
 ### Session 1
 * [Common myths in ML](http://www.iamwire.com/2017/07/3-common-myths-around-machine-learning/156129) - Good article.
